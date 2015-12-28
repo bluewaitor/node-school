@@ -1,0 +1,29 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "learnyounode",
+  "main": "index.js",
+  "dependencies": {
+    "bl": "^1.0.0",
+    "through2-map": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluewaitor/node-school.git"
+  },
+  "keywords": [
+    "node",
+    "school",
+    "learn"
+  ],
+  "author": "bluewaitor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bluewaitor/node-school/issues"
+  },
+  "homepage": "https://github.com/bluewaitor/node-school#readme"
+}
