@@ -9,6 +9,12 @@
   "author": "bluewaitor",
   "license": "MIT",
   "dependencies": {
-    "through2": "^2.0.0"
+    "concat-stream": "^1.5.1",
+    "duplexer2": "^0.1.4",
+    "request": "^2.67.0",
+    "split": "^1.0.0",
+    "through2": "^2.0.0",
+    "trumpet": "^1.7.2",
+    "websocket-stream": "^3.0.1"
   }
 }
